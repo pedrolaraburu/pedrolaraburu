@@ -4,7 +4,7 @@
 - Brazilian;
 - 19 years old;
 - Computer Science undergraduate at Centro Universitário de Brasília (UniCEUB);
-- Currently learning Java and Spring Boot;
+- Currently learning Python and Django;
 - I'm focused and deeply persistent in solving problems;
 - Always looking forward to expanding my knowledge;
 - Feel free to reach me if you want, always looking forward to meeting new people!
