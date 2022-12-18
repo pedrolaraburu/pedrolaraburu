@@ -10,8 +10,8 @@
 - Feel free to reach me if you want, always looking forward to meeting new people!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-laraburu/">
-    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/pedro-laraburu/">
+  <a href="https://www.linkedin.com/in/pedrolaraburu/">
+    <img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/pedrolaraburu/">
   </a>
   <a href="mailto:contatopedrohlaraburu@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:contatopedrohlaraburu@gmail.com">
