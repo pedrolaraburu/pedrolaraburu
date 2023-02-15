@@ -10,7 +10,7 @@
 
 ### Some personal info:
 - Brazilian;
-- 19 years old;
+- 20 years old;
 - Computer Science undergraduate at Centro Universitário de Brasília (UniCEUB);
 - Currently learning Python and Django;
 - I'm focused and deeply persistent in solving problems;
