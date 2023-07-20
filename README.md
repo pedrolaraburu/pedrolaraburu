@@ -9,36 +9,28 @@
 </p>
 
 
-## Some personal info:
-- Brazilian;
-- 20 years old;
-- Computer Science undergraduate at Centro Universitário de Brasília (UniCEUB);
-- Currently learning Java and Spring Boot;
-- I'm focused and deeply persistent in solving problems;
-- Always looking forward to expanding my knowledge;
-- Feel free to reach me if you want, always looking forward to meeting new people!
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Back%20End-ECA72C?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Self%20Learning-16E0BD?&style=for-the-badge">
-</p>
+- 📚 Computer Science undergraduate at Centro Universitário de Brasília (UniCEUB);
+- 🌱 Currently learning Java and Spring Boot;
+- ⚙ I'm focused and deeply persistent in solving problems;
+- 🧠 Always looking forward to expanding my knowledge;
+- 📨 Feel free to reach me if you want, always looking forward to meeting new people!
+- 📩 Mail me: contatopedrohlaraburu@gmail.com 
 
 ## Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Java-FF7800?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
 </p>
 
 ## My Stats
 <div align="center">
   <a href="https://github.com/pedrolaraburu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolaraburu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolaraburu&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolaraburu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolaraburu&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
