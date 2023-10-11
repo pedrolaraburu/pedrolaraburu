@@ -21,11 +21,12 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Java-FF7800?logo=java&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Java-FF7800?logo=openjdk&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
 </p>
 
 ## My Stats
