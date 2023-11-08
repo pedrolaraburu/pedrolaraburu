@@ -28,10 +28,3 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"> 
 </p>
-
-## My Stats
-<div align="center">
-  <a href="https://github.com/pedrolaraburu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolaraburu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolaraburu&layout=compact&langs_count=7&hide=html,scss,css&theme=nightowl"/>
-</div>
