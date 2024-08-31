@@ -14,7 +14,7 @@
 - ⚙ I'm focused and deeply persistent in solving problems;
 - 🧠 Always looking forward to expanding my knowledge;
 - 📨 Feel free to reach me if you want, always looking forward to meeting new people!
-- 📩 Mail me: contatopedrohlaraburu@gmail.com 
+- 📩 Mail me: pedro@laraburu.com
 
 ## Technologies & Tools
 <p align="left">
