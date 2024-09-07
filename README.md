@@ -3,13 +3,13 @@
   <a href="https://www.linkedin.com/in/pedrolaraburu/">
     <img src="https://img.shields.io/badge/-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/pedrolaraburu/">
   </a>
-  <a href="mailto:contatopedrohlaraburu@gmail.com">
-    <img src="https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=flat-square&link=mailto:contatopedrohlaraburu@gmail.com">
+  <a href="mailto:pedro@laraburu.com">
+    <img src="https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=flat-square&link=mailto:pedro@laraburu.com">
   </a>
 </p>
 
 
-- 📚 Computer Science undergraduate at Centro Universitário de Brasília (UniCEUB);
+- 📚 Computer Science undergraduate;
 - 🌱 Currently learning Node.js and GraphQL;
 - ⚙ I'm focused and deeply persistent in solving problems;
 - 🧠 Always looking forward to expanding my knowledge;
