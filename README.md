@@ -13,4 +13,4 @@ Currently exploring:
 
 ---
 
-[LinkedIn](https://linkedin.com/in/pedrolaraburu) · pedro@laraburu.com
+[LinkedIn](https://linkedin.com/in/pedrolaraburu) · pedro@laraburu.com · [laraburu.com](https://laraburu.com)
